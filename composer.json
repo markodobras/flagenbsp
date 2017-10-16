@@ -1,0 +1,19 @@
+{
+  "name": "Dobras/flags",
+  "description": "Flag creation and calculation for a HTL3R project",
+  "type": "library",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "Marko Dobras",
+      "email": "3711@htl.rennweg.at"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "dobras\\Flags\\": "src/"
+    }
+  }
+
+}
